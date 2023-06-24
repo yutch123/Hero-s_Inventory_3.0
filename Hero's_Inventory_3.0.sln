@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hero's_Inventory_3.0", "Hero's_Inventory_3.0\Hero's_Inventory_3.0.vcxproj", "{DB784549-EA66-4142-BEE5-3738C6AD81B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Debug|x64.ActiveCfg = Debug|x64
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Debug|x64.Build.0 = Debug|x64
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Debug|x86.Build.0 = Debug|Win32
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Release|x64.ActiveCfg = Release|x64
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Release|x64.Build.0 = Release|x64
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Release|x86.ActiveCfg = Release|Win32
+		{DB784549-EA66-4142-BEE5-3738C6AD81B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE4D5F3C-6EFB-4AFD-9F43-EB6ACA1418B5}
+	EndGlobalSection
+EndGlobal
